@@ -1,20 +1,13 @@
 📦 Inventory Management System
 
 🗂 Project Structure
-Sistem-Pendataan-Barang
-/
-│
-├── index.php           # Login page
-├── login.php           # User authentication logic
-├── register.php        # User registration form
-├── logout.php          # Logout handler
-├── dashboard.php       # Main dashboard after login (displays inventory)
-├── db.php              # Database connection settings
-│
-├── assets/
-│   ├── style.css       # CSS styling
-│   ├── stokbarang.jpg  # UI illustration image
-│   └── stokbarang2.jpg
+-index.php: The landing page for user login.
+-register.php: A registration form to create a new user account.
+-login.php: Processes the login credentials and authenticates users.
+-logout.php: Logs the user out and ends the session.
+-dashboard.php: The main interface where users can view inventory data after logging in.
+-db.php: Contains database connection settings.
+-assets/: A folder for styling and image assets used in the UI.
 
 🔑 Features
 1. 🧾 User Authentication:
