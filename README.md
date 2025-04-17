@@ -1,7 +1,8 @@
 📦 Inventory Management System
 
 🗂 Project Structure
-Sistem-Pendataan-Barang/
+Sistem-Pendataan-Barang
+/
 │
 ├── index.php           # Login page
 ├── login.php           # User authentication logic
