@@ -42,6 +42,6 @@
 ![image](https://github.com/user-attachments/assets/7689ddd8-ffac-4e55-9a21-ab476d17a114)
 ![image](https://github.com/user-attachments/assets/2638a41b-042f-49fe-ac90-5d452d8da57a)
 
-👨‍💻 Muhammad Sulton , Informatics Student, University of Singaperbangsa Karawang
+👨‍💻 Developed by Muhammad Sulton
 
 
