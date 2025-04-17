@@ -1,5 +1,5 @@
 📦 Inventory Management System
-The Inventory Management System is a simple web application built with PHP and MySQL that allows users to manage item data through a login-based dashboard. Users can register, log in, and view a list of items in stock. The system is designed to assist small-scale inventory tracking with a clean interface and basic authentication functionality. It can be extended with features such as item addition, editing, and deletion to suit broader inventory needs.
+1. The Inventory Management System is a simple web application built with PHP and MySQL that allows users to manage item data through a login-based dashboard. Users can register, log in, and view a list of items in stock. The system is designed to assist small-scale inventory tracking with a clean interface and basic authentication functionality. It can be extended with features such as item addition, editing, and deletion to suit broader inventory needs.
 
 🗂 Project Structure
 1. index.php: The landing page for user login.
